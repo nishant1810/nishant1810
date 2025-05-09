@@ -54,7 +54,7 @@ Here are some ideas to get you started: -->
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="tailwindcss" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
