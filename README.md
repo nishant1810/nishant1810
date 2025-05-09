@@ -66,6 +66,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant1810&show_icons=true&theme=radical&show_icons=true" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1810&layout=compact&theme=radical&" alt="nishant" /></p>
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1810&layout=compact&theme=radical&" alt="nishant" /></p>
+
 
