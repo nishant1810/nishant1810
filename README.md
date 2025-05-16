@@ -66,8 +66,8 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Let's get connected:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-agarwal-19900a26a/)
-- 📧 [Email Me](mailto:priyanshiagarwal4851@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishant-gaur-555120268/)
+- 📧 [Email Me](mailto:gaur18nishant@gmail.com)
 
 ## 📊 My GitHub Data:
 
